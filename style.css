@@ -1,0 +1,53 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/amazing-background-sunrise-sky-with-gentle-colors-soft-clouds-big-size_638259-34.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: gray;
+    background-color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 45px;
+    border: 3px solid grey;
+    border-radius: 25px;
+    width: 40%;
+    height: 60px;
+    position: relative;
+    margin-left: 30%;
+}
+.Weather_website{
+    border: 2px solid skyblue;
+    border-radius: 6px;
+    padding: 30px;
+    width: 36%;
+    height: 220px;
+    background-image: url('https://www.shutterstock.com/shutterstock/videos/1092800857/thumb/1.jpg?ip=x480');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 30%;
+    top: 90px;
+    text-align: center;
+    box-shadow: 0 8px 16px grey;
+}
+input[type=text]{
+    padding: 10px;
+    width: 200px;
+    border: 2px solid green;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+button{
+    padding: 10px;
+    width: 150px;
+    border: 2px solid green;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
